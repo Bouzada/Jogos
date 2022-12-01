@@ -1,0 +1,16 @@
+# Jogo Resgate
+
+Esse jogo foi criado dentro do Bootcamp Take Blip Web Developer na plataforma da DIO.
+
+### Descrição
+
+O jogo segue como base as aulas e poucas coisas alterei no projeto, as alterações feitas foram por maior parte realizadas no CSS e alterações pequenas no JavaScript.
+
+O jogo foi construído de forma pensada para que possa rodar em qualquer browser.
+
+### O jogo foi contruído com:
+
+- HTML5
+- CSS3
+- JavaScript
+- JQuery
