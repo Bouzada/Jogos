@@ -1,0 +1,16 @@
+# Jogos
+
+Nesse repositório encontram-se todos os jogos que desenvolvi durante os meus aprendizados. Os jogos foram muito importantes para os meu aprendizados em JavaScript, fazendo com que eu comprendesse melhor em como escrever meus códigos em JavaScript.
+
+  
+
+## Projetos
+
+* [Jogo da Velha](https://github.com/Bouzada/jogos/tree/main/jogo-da-velha)
+	(O tradicional jogo da velha.)
+	 
+* [O resgate](https://github.com/Bouzada/jogos/tree/main/resgate)
+	(O jogo tem como objetivo abater os transportes inimigos enquanto resgata seus aliados que aparecem em tela.)
+	
+* [Snake Game](https://github.com/Bouzada/jogos/tree/main/snake-game)
+	(O tradicional jogo da cobrinha.)
